@@ -4,6 +4,7 @@
   libraries/Pronto/Pronto.cpp: In function 'void __vector_13()':
   libraries/Pronto/Pronto.cpp:91: error: 'ir_toggle' was not declared in this scope
   libraries/Pronto/Pronto.cpp:105: error: 'ir_off' was not declared in this scope
+  This might be something releated to running from inside of a ISR?
 */
 
 #include <Pronto.h>
